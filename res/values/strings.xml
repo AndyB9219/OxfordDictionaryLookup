@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OxfordDictionary</string>
+    <string name="ph_text_search_term">Find any term</string>
+    <string name="no_empty_search">No empty search</string>
+</resources>
